@@ -180,7 +180,8 @@ th, td {
 }
 @media screen and (max-width: 600px){
     .wrapper {
-        padding-bottom: 300px;
+        padding-bottom: 1250px;
+        margin-right: 0px;
     }
     .wrapperIndex {     
         padding-bottom: 1270px;
